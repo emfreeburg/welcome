@@ -2,7 +2,7 @@
 
 My current research (cs.CL, arXiv) is on the way markdown training leaves fingerprints in LLM prose.
 
-- [The Last Fingerprint: How Markdown Training Shapes LLM Prose](https://arxiv.org/html/2603.27006v1#S5)
+- [The Last Fingerprint: How Markdown Training Shapes LLM Prose](https://arxiv.org/html/2603.27006v1)
 
 I sometimes contribute to the Substack Publication: [To The Cypress Tree](https://www.cheirophilus.com/)
 
